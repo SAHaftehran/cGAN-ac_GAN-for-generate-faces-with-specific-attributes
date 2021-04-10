@@ -24,4 +24,6 @@ This networs architect consist of two model named: **Discrimnator** and **Genera
 **The _discriminator_ model is responsible for classifying a given image as either real (drawn from the dataset) or fake (generated).**
 
 # First Model : Conditional GAN
+ As a result of this model we got 108.62 for FID score.
+ 
 
