@@ -25,5 +25,20 @@ This networs architect consist of two model named: **Discrimnator** and **Genera
 
 # First Model : Conditional GAN
  As a result of this model we got 108.62 for FID score.
- 
+![Black Blond](https://user-images.githubusercontent.com/55629156/114266376-4c894080-99f6-11eb-9aa3-3ef672f56f0b.png)
 
+![Smile](https://user-images.githubusercontent.com/55629156/114266438-b3a6f500-99f6-11eb-9066-b0f7629757aa.png)
+
+
+# Second Model : AC GAN
+As a result of this model we got FID score less than 80.
+In this model We use Discrimnaotr as both classfire for real and fake images and predict labels of input images.
+![black_ac](https://user-images.githubusercontent.com/55629156/114273523-a1d74900-9a1a-11eb-94ed-3ab1ef57dc23.png)
+![smile_ac](https://user-images.githubusercontent.com/55629156/114273605-05fa0d00-9a1b-11eb-9d4a-1141650f5284.png)
+
+# Group Memebers
+Saeid Amir Haftehran - saeid.amirhaftehran@studio.unibo.it 
+
+Ali Tavana           - ali.tavana@studio.unibo.it
+
+Maryam Alizadeh      - maryam.alizadeh@studio.unibo.it
