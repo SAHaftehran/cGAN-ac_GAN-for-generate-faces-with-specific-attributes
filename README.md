@@ -41,6 +41,7 @@ In this model We use Discrimnaotr as both classfire for real and fake images and
 
 # Results
 In plot below You can See our two model FID Score:
+
 ![result](https://user-images.githubusercontent.com/55629156/116854869-aac1d180-abf8-11eb-8242-593d8a2ae12a.png)
 
 
