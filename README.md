@@ -33,7 +33,9 @@ This networs architect consist of two model named: **Discrimnator** and **Genera
 # Second Model : AC GAN
 As a result of this model we got FID score less than 21.
 In this model We use Discrimnaotr as both classfire for real and fake images and predict labels of input images.
+
 ![blonde](https://user-images.githubusercontent.com/55629156/116854606-3e46d280-abf8-11eb-9d7d-57c3cab64ef4.png)
+
 ![smile_ac](https://user-images.githubusercontent.com/55629156/114273605-05fa0d00-9a1b-11eb-9d4a-1141650f5284.png)
 
 
