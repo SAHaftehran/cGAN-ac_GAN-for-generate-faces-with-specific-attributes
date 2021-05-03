@@ -39,6 +39,10 @@ In this model We use Discrimnaotr as both classfire for real and fake images and
 ![smile_ac](https://user-images.githubusercontent.com/55629156/114273605-05fa0d00-9a1b-11eb-9d4a-1141650f5284.png)
 
 
+# Results
+![result](https://user-images.githubusercontent.com/55629156/116854869-aac1d180-abf8-11eb-8242-593d8a2ae12a.png)
+
+
 # Group Memebers
 Saeid Amir Haftehran - saeid.amirhaftehran@studio.unibo.it 
 
